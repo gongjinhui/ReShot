@@ -1,0 +1,11 @@
+## A-capture
+
+Design one original macOS app icon concept for ReShot, a precise screen region capture, scrolling screenshot and OCR utility. The supplied screenshot icon is style inspiration only: airy rounded selection corners and pastel blue contrasted with charcoal. Invent a single large high-contrast graphic: three thick icy blue rounded crop corners and a fourth filled luminous cyan corner integrated with a tiny single broad square selection block, visually describing an area captured. Deep ink navy edge-to-edge square field, quiet subtle satin shading, silhouette-centered, broad stroke widths and deliberate gaps that survive 16px. Straight-on flat 2D vector-like product icon, with no platform rounding baked in, no camera, no lens, no letters, no frame outside the square. Deliver one square artwork only with no caption.
+
+## B-scroll
+
+Design one original macOS app icon concept for ReShot, a scrolling screenshot and local OCR utility. Use the supplied screenshot icon only for soft pastel hue, rounded geometry and clear negative space. Interpret a scrolling capture as a single tall folded ribbon of captured screen, two broad overlapping offset planes creating one distinctive stepped contour with one wide dark seam, like stacked viewports in motion, with a bold lavender foreground and pale periwinkle fold. Full bleed midnight-plum square field with extremely restrained shading. Big centered simple silhouette with thick shapes readable at 16px, generous safe margins. Straight-on 2D vector-like finish, no page text, camera, lens, platform corner mask or mockup. One square artwork only.
+
+## C-ocr
+
+Design one original macOS app icon concept for ReShot, an area screenshot and local OCR utility. Use the supplied screenshot icon as a style cue only, borrowing rounded ends and clean pastel contrast. Depict text being lifted out of a capture using exactly two chunky mint horizontal text bars and one wide diagonal cream-colored scan slash between them, arranged as a tightly interlocked asymmetric glyph with strong silhouette; a single purposeful geometric symbol. Edge-to-edge very dark petrol green square field, matte clean vector-like design with high contrast. Center the mark and make it large and clearly legible at 16px. No letters, tiny marks, camera, lens, caption, corner mask or mockup. One square artwork only.
